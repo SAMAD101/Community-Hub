@@ -50,7 +50,7 @@ export default function SearchButton() {
         <Search size={16} className="flex-none" />
         <span className="flex-1">Search the Handbook</span>
         <kbd className="rounded-xl border border-slate-300 bg-slate-100 px-2 py-1 text-xs text-slate-600 dark:border-slate-500 dark:bg-slate-700 dark:text-white">
-          CTRL + K
+          CTRL+K
         </kbd>
       </button>
 
